@@ -27,6 +27,10 @@
 
 6.setting miner silahkan baca setting miner.txt
 
+7.cara ini bisa dipakai untuk dualboot.
+
+8.untuk stb yang sudah root atau terinstall andriod tv, masuk keterminal, reboot update.
+
 
    CARA KEDUA
    
