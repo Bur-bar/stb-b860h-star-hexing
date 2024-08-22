@@ -1,0 +1,31 @@
+1. Download Miner
+2. Setup miner
+3. Set autorun
+
+
+1. Download Miner
+mkdir ccminer
+cd ccminer
+wget https://github.com/rdsp87/dero-stb/raw/main/lib.deb -4 
+sudo dpkg -i lib.deb 
+wget https://github.com/rdsp87/dero-stb/raw/main/ccminer -4 
+chmod +x ccminer
+
+mkdir ccminer && cd ccminer && wget https://github.com/rdsp87/dero-stb/raw/main/lib.deb -4 && sudo dpkg -i lib.deb && wget https://github.com/rdsp87/dero-stb/raw/main/ccminer -4 && chmod +x ccminer
+
+2. Setup Miner
+nano miner.sh
+
+./ccminer/ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RTnttEtmUQG1mTzF6iwJe7FUHaEPkYiHcn.algezive -p x -t 4
+
+crtl+x
+y
+enter
+chmod +x miner.sh
+
+3. Set Autorun Miner
+crontab -e
+
+@reboot screen -dmS verus /root/ccminer/miner.sh
+
+
