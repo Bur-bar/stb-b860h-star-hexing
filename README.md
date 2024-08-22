@@ -39,8 +39,8 @@
 3.lanjutkan seperti CARA PERTAMA.
 4.apabila ingin seterusnya boot di sdcard silakan jumper titik yang dibalik tombol power ke ground (foto dalam folder)
 
-**cara ini tidak ada jaminam berhasil tapi setidaknya cara ini lebih aman untuk stb.
-**cara ini agak lebih mahal karena harus pakai sdcard.
+** cara ini tidak ada jaminam berhasil tapi setidaknya cara ini lebih aman untuk stb.
+** cara ini agak lebih mahal karena harus pakai sdcard.
 ** runing hanya di sdcard bukan di emmc ,kerena belum tau caranya install di emmc blum punya ilmunya
 ** cara ini sebagian banyak dari youtube,kalau kurang jelas silhkan nonton youtube yang membahas tentang stb ini
 
