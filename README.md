@@ -3,13 +3,15 @@
 
    PERSIAPAN
    
-1.siap kan STB biarkan standard (tanpa root).
+1.siap kan STB biarkan standard (tanpa root)
+
 2.siapkan memorycard minimal 8GB.
 
    CARA PERTAMA
    
 1.burning sdcard dengan fimwere armbian.
   untuk fimwere silahkan didownload yang versi armbian 21.08.1
+  
 2.setelah di burning edit file boot sdcardnya
   - copy file dtb
   - edit/copy/replese file extlinux.conf
