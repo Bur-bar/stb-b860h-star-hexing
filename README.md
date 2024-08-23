@@ -19,9 +19,10 @@
   note: kalau mau lednya berubah warna saat armbian runing ganti u-boot.ext.
   
 3.pasang sdcard.
+
 4.pasang adaptor sambil pencet tombol power 5-10 detik.
  
-  note: pakai monitor tv atau apa aja asal bisa dipakai /ada input hdmi nya.
+   note: pakai monitor tv atau apa aja asal bisa dipakai /ada input hdmi nya.
   
 5.kalau sudah runing silahkan lakukan instalasi seperti biasa.
 
